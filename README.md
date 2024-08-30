@@ -1,5 +1,5 @@
 ```yaml
-last-updated: 2024-08-31
+version: 2024-08-31
 
 spec:
   summary: |
