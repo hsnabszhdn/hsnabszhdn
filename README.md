@@ -27,5 +27,5 @@ spec:
     - Linux
     - GitHub
     - Azure DevOps
-    - Microsoft Azure Cloud
+    - Microsoft Azure
 ```
