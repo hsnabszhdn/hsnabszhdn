@@ -1,5 +1,5 @@
 ```yaml
-version: 2024-10-06
+version: 2025-04-23
 
 spec:
   summary: |
@@ -12,6 +12,10 @@ spec:
     - field-of-study: Software Engineering
       degree: Bachelor's
   top-certificates:
+    - name: Microsoft Certified DevOps Engineer Expert
+      issuer: Microsoft
+    - name: Microsoft Certified Azure Administrator Associate
+      issuer: Microsoft
     - name: GitHub Actions
       issuer: GitHub
     - name: Distributed Systems Design Fundamentals
