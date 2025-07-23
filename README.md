@@ -8,6 +8,8 @@ spec:
     - field-of-study: Software Engineering
       degree: Bachelor's
   top-certificates:
+    - name: HashiCorp Certified Terraform Associate
+      issuer: HashiCorp
     - name: Microsoft Certified DevOps Engineer Expert
       issuer: Microsoft
     - name: Microsoft Certified Azure Administrator Associate
