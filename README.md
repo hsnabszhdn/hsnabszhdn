@@ -1,5 +1,5 @@
 ```yaml
-version: 2025-04-23
+version: 2025-07-23
 
 spec:
   educations:
